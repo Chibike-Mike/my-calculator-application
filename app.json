@@ -4,30 +4,16 @@
     "slug": "michael-calculator-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.chibikemike.mycalculatorapp"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "package": "com.chibikemike.mycalculatorapp"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "2f66003b-8319-473c-a740-daa475d96b59"
+        "projectId": "PASTE_YOUR_PROJECT_ID_HERE"
       }
     }
   }
